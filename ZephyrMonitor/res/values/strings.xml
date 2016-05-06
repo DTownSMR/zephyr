@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zephyr Monitor</string>
+    <string name="dummy_button"></string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="status">--not connected--</string>
+    <string name="heartRate">-*-</string>
+    <string name="speed">-*-</string>
+    <string name="batteryCharge">-*-</string>
+    <string name="heartRateLabel">Heart Rate:</string>
+    <string name="speedLabel">Speed:</string>
+    <string name="batteryLabel">Battery: </string>
+
+</resources>
